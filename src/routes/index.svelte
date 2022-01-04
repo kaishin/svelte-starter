@@ -1,15 +1,10 @@
 <main>
   <div class="container">
-    <h1>Homepage</h1>
+    <h1>My Blog</h1>
     <hr>
     <p>This is my new SvelteKit app.</p>
   </div>
 </main>
-
-<script context="module">
-  export const hydrate = false;
-  export const router = false;
-</script>
 
 <style>
   main {
